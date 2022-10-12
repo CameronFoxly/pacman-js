@@ -43,7 +43,7 @@ class Pacman {
     this.loopAnimation = true;
     this.msBetweenSprites = 50;
     this.msSinceLastSprite = 0;
-    this.spriteFrames = 4;
+    this.spriteFrames = 7;
     this.backgroundOffsetPixels = 0;
     this.animationTarget.style.backgroundPosition = '0px 0px';
   }
